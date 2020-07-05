@@ -3,8 +3,8 @@
 3 Simple is better than complex.
 4 Complex is better than complicated.
 5 Flat is better than nested.
-6
-7
+6 
+7 Sparse is better than dense.
 8
 9
 10
